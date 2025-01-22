@@ -1,0 +1,72 @@
+h2 {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+
+table {
+    border: none;
+    text-align: left;
+    height: 90px;
+    width: 1000px;
+}
+button {
+    background-color: rgb(0, 119, 255);
+    color: white;
+    border: none;
+    height: 25px;
+    width: 1000px;
+    display: block;
+    margin: auto;
+}
+th {
+    background-color: rgb(223, 223, 223);
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+input {
+    height: 20px;
+    width: 1900px;
+}
+div {
+    background-color: green;
+    width: 300px;
+    height: 50px;
+    position: relative;
+    left: 3cm;
+}
+.red {
+    background-color: red;
+}
+.black {
+    background-color: black;
+    position: relative;
+    bottom: 0.6cm;
+}
+.green {
+    background-color: green;
+    position: relative;
+    top: 0.6cm;
+}
+img {
+    display: block;
+    margin: auto;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+footer {
+    text-align: center;
+}
+input {
+    display: block;
+    margin: auto;
+
+}
